@@ -3,7 +3,7 @@
 <title> Scaffold Tle  </title> 
 </head>
 
-<body background="covid19-1600x900.jpg" text="white">
+<body background="covid19-1600x900.jpg" text="black">
 <h1 align="center">
 The Pandemic
  </h1>
